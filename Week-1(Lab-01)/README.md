@@ -1,4 +1,4 @@
-# Week-1 (Lab-01): Dog Breed Classification with Stable Diffusion
+# Week-1 (Lab-01): Dog Breed Dataset Generation & Classification Model Training
 
 ## Overview
 This lab focuses on creating a custom dog breed dataset using AI-generated images and training a CNN classifier to recognize different dog breeds.
